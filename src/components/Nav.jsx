@@ -18,7 +18,7 @@ function Nav() {
             <div className='flex flex-row items-center'>
                 <img className="w-48" src={Logo}/>
             </div>
-            <div className={`md:static md:min-h-fit absolute md:w-auto w-[94%] top-[15%] left-[3%] min-h-[60vh] flex justify-between
+            <div className={`md:static md:min-h-fit absolute md:w-auto w-[94%] top-[13%] left-[3%] min-h-[60vh] flex justify-between
              left-0 md:block ${menuOpen ? 'block z-50' : 'hidden'} md:bg-white bg-[#3f418c] rounded  items-center px-5 transition-all duration-300`}>
                 <ul className='flex md:flex-row flex-col md:items-center md:gap-[4vh] gap-8'>
                     <Link to='/' className='font-bold hover:text-[#3f418c] text-slate-700'>
