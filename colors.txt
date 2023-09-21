@@ -1,0 +1,4 @@
+#d5439c ==red
+#e590d2 ==pinkisfa
+#b4e4aa == greebish  #64A157 ==alt
+#019dec ==blue light
